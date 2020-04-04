@@ -1,0 +1,274 @@
+body {
+  margin: 0;
+  font-family: 'Bai Jamjuree', sans-serif;
+}
+h1 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: 18%;
+  color: grey;
+}
+h2 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  color: grey;
+}
+h3 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: grey;
+}
+h4 {
+  margin-top: 10%;
+}
+p {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 2;
+}
+.titlediv {
+  width: 100%;
+  text-align: center;
+}
+.headerimg {
+  position: relative;
+  width: 100%;
+}
+.titleheader {
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.myButton {
+  box-shadow: 0 1px 21px -6px #0a0a09;
+  margin-bottom: 10%;
+  margin-top: 30px;
+	background-color:#26baa4;
+	border-radius:28px;
+	border:1px solid #26baa4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	padding:17px 39px;
+	text-decoration:none;
+	text-shadow:0 0 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#26baa4;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButton2 {
+
+  box-shadow: 0 1px 21px -6px #0a0a09;
+  background-color: #6173ff;
+  border-radius:28px;
+  border:1px solid #6173ff;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Verdana;
+  font-size:20px;
+  padding:17px 39px;
+  text-decoration:none;
+  text-shadow:0 0 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#6173ff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.monitordiv {
+  width: 100%;
+  text-align: center;
+  padding-top: 20%;
+}
+.topdiv {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottomleftdiv {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+.computerimg {
+  width: 80%;
+  margin-top: 20%;
+}
+.textbox1 {
+  width: 80%;
+  text-align: center;
+  margin: 20% auto 10% auto;
+}
+.textbox2 {
+  width: 80%;
+  text-align: center;
+  margin: 10% auto 10% auto;
+}
+.textbox2 {
+  width: 80%;
+  text-align: center;
+  margin: 10% auto 10% auto;
+}
+.phonediv {
+  width: 100%;
+  text-align: center;
+}
+.updiv {
+  width: 80%;
+  text-align: center;
+  margin-top: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.downdiv {
+  width: 100%;
+  text-align: center;
+}
+.tablet {
+  position: relative;
+  width: 80%;
+  margin-top: 10%;
+}
+.Superchargediv {
+  width: 100%;
+  text-align: center;
+}
+.uptitlediv {
+  width: 80%;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imagediv1 {
+  width: 80%;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imagediv2 {
+  width: 80%;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imagediv3 {
+  width: 80%;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.companydiv {
+  width: 50%;
+  text-align: center;
+  margin-top: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.google {
+  margin-top: 0;
+  margin-bottom: 10%;
+}
+.hp {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.ibm {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.MS {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.VG {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.bottomdiv {
+  margin-top: 30%;
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.myButtonbottom {
+  box-shadow: 0 1px 21px -6px #0a0a09;
+  margin-bottom: 10%;
+  margin-top: 30px;
+	background-color:#26baa4;
+	border-radius:28px;
+	border:1px solid #26baa4;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	padding:17px 39px;
+	text-decoration:none;
+	text-shadow:0 0 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#26baa4;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.myButtonbottom2 {
+
+  box-shadow: 0 1px 21px -6px #0a0a09;
+  background-color: #6173ff;
+  border-radius:28px;
+  border:1px solid #6173ff;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Verdana;
+  font-size:20px;
+  padding:17px 39px;
+  text-decoration:none;
+  text-shadow:0 0 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#6173ff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 30%;
+  background-color: #e2e9e9;
+  padding-top: 20%;
+  color: grey;
+}
+.footerlogodiv {
+  width:100%;
+  position: relative;
+}
+.socialimg {
+  padding-bottom: 5%;
+  padding-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
